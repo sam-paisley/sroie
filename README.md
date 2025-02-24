@@ -1,4 +1,4 @@
-
+# Uploading folder with contents to COS bucket
 
 Contents of .env file
 
